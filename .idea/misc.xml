@@ -3,4 +3,7 @@
   <component name="MavenRunner">
     <option name="jreName" value="11" />
   </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
 </project>
